@@ -13,7 +13,7 @@ window/size/viewport_height=420
 window/size/window_width_override=360
 window/size/window_height_override=420
 window/size/resizable=false
-window/always_on_top=true
+window/size/always_on_top=true
 window/stretch/mode="canvas_items"
 window/stretch/aspect="expand"
 
